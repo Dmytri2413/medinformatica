@@ -1,0 +1,9 @@
+body{
+    background-color: azure;
+    color: blue;
+}
+header,
+footer {
+text-align: center;
+background-color: aquamarine;
+}
